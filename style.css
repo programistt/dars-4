@@ -1,0 +1,20 @@
+.my-container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.intro {
+    height: 600px;
+    background-image: url('./images/intro.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.intro .my-container {
+    height: 100%;
+}
+
+.intro h1 {
+    font-size: 52px;
+}
